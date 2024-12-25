@@ -34,7 +34,7 @@ A big thank you to **FreeCodeCamp** for their well-structured curriculum, projec
 
 I would also like to extend my gratitude to the following channels for their guidance in writing the code:
 
-[[Channel Name 1](https://www.youtube.com/@codeManS)]
+[@codeManS](https://www.youtube.com/@codeManS)]
 [Channel Name 2]
 [Channel Name 3]
 These resources provided valuable insights and helped me refine my coding skills.
