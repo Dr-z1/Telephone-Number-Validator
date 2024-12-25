@@ -31,3 +31,10 @@ All rights to this project and its related materials belong to **FreeCodeCamp**,
 I am showcasing this project as part of my learning journey, completed based on FreeCodeCamp's resources and guidance.
 
 A big thank you to **FreeCodeCamp** for their well-structured curriculum, projects, and partially provided code snippets that made this project possible.
+
+I would also like to extend my gratitude to the following channels for their guidance in writing the code:
+
+[[Channel Name 1](https://www.youtube.com/@codeManS)]
+[Channel Name 2]
+[Channel Name 3]
+These resources provided valuable insights and helped me refine my coding skills.
