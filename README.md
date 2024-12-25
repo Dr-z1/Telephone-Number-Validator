@@ -2,12 +2,14 @@ Telephone Number Validator
 
 
 Project Overview
-This project is a Telephone Number Validator application, developed as part of the FreeCodeCamp curriculum. The goal of this project is to validate United States telephone numbers based on specified rules.
+This project is a Telephone Number Validator application, developed as part of the FreeCodeCamp curriculum. 
+The goal of this project is to validate United States telephone numbers based on specified rules.
 
 Course Details
 Course Section: JavaScript Algorithms and Data Structures (Beta)
 Project Name: Telephone Number Validator
 Website: FreeCodeCamp
+
 This project is one of the required tasks to earn the certification in JavaScript Algorithms and Data Structures.
 
 Purpose
