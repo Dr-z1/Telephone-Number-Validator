@@ -9,7 +9,7 @@
 
 + Course Section: JavaScript Algorithms and Data Structures (Beta)
 + Project Name: Telephone Number Validator
-+ Website: FreeCodeCamp
++ This site was built using [Free Code Camp](https://www.freecodecamp.org/).
 + This project is one of the required tasks to earn the certification in JavaScript Algorithms and Data Structures.
 
 Purpose
