@@ -13,7 +13,8 @@
 + This project is one of the **required tasks** to earn the certification in JavaScript Algorithms and Data Structures.
 
 ## **Purpose**
-The application verifies if a given number qualifies as a valid U.S. phone number. <br>
+The application verifies if a given number qualifies as a valid U.S. phone number.
+
 The project focuses on implementing JavaScript logic for validation.
 
 ## **Acknowledgment**
