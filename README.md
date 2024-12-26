@@ -8,9 +8,9 @@
 
 ## **Course Details**
 
-+ **Course Section**: JavaScript Algorithms and Data Structures (Beta)
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
   
-+ **Project Name**: Telephone Number Validator
++ **Project Name**: Telephone Number Validator.
   
 + This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
