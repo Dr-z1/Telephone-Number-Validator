@@ -2,9 +2,9 @@
 
 ## **Project Overview**
 
-#### This project is a **Telephone Number Validator application**, developed as part of the FreeCodeCamp curriculum. 
+#### This Project Is A **Telephone Number Validator Application**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The primary goal is to validate United States telephone numbers based on specified rules.
+#### The Primary Goal Is To Validate United States Telephone Numbers Based on Specified Rules.
 
 ## **Course Details**
 
@@ -12,30 +12,35 @@
   
 + **Project Name**: Telephone Number Validator
   
-+ This site was built using **[Free Code Camp](https://www.freecodecamp.org/).**
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
-+ This project is one of the **required tasks** to earn the certification in JavaScript Algorithms and Data Structures.
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
 
 ## **Purpose**
 
-The application verifies if a given number qualifies as a valid U.S. phone number.
+The Application Verifies If A Given Number Qualifies As A Valid U.S. Phone Number.
 
-The project focuses on implementing JavaScript logic for validation.
+The Project Focuses On Implementing JavaScript Logic For Validation.
 
 ## **Acknowledgment**
 
-This project was created following the instructions provided by **FreeCodeCamp**.
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
-All rights to this project and its related materials belong to **FreeCodeCamp**, a free educational platform offering structured courses and hands-on projects.
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
 
-I am showcasing this project as part of my learning journey, completed based on FreeCodeCamp's resources and guidance.
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
 
-A big thank you to **FreeCodeCamp** for their well-structured curriculum, projects, and partially provided code snippets that made this project possible.
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-I would also like to extend **my gratitude** to the following channels for their guidance in writing the code:
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
 **[@codeManS](https://www.youtube.com/@codeManS)**
 
 **[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
-These resources provided valuable insights and helped me refine my coding skills.
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
+
+
+
+
+
