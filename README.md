@@ -32,6 +32,7 @@ I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On 
 
 A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
+## **Special Thanks** 
 I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
 **[@codeManS](https://www.youtube.com/@codeManS)**
